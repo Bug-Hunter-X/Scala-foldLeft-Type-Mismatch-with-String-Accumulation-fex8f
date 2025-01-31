@@ -1,0 +1,2 @@
+# Scala foldLeft Type Mismatch
+This example demonstrates a common error when using the `foldLeft` method in Scala with String accumulation. The code attempts to append integers directly to a String accumulator without proper type handling, which results in type mismatch during compilation or unexpected output at runtime. This can be especially tricky for beginners unfamiliar with Scala's type system.
